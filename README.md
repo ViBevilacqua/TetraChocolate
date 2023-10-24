@@ -79,7 +79,7 @@ An example of the game window with automatic resizing and repositioning to allow
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Installation and usage
-The project was developed using the Visual Studio Code 2022 IDE, the VSC project configuration files were not uploaded in this repository. Therefore, to improve or run this project, it is recommended to:
+The project was developed using the Visual Studio Code 2022 IDE, the VSC project configuration files were not uploaded in this repository. Therefore, to improve or run this project, I suggest the following steps:
 
 1. Install Visual Studio Code.
 2. Install the libraries required [here](https://github.com/ViBevilacqua/TetraChocolate/blob/main/README.md#built-with).
