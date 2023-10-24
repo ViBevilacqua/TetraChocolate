@@ -3,6 +3,7 @@
   <div align="center">
     <a href="https://wfxr.mit-license.org/2017"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"/></a>
     <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/C++-11-blue.svg?style=flat&logo=c%2B%2B"/></a>
+    <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/OpenGL-1.12.0-FFFFFF?style=flat&logo=opengl"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-v2022-0066b8?style=flat&logo=visual-studio-code&logoColor=23a9f2"/></a></div>
 </div>
 
@@ -102,6 +103,7 @@ Vincenzo Bevilacqua - University of Naples Parthenope - [email](vincenzo.bevilac
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-
+For the development of this project I thank:
+* LitoStudio for the development of the 3D model of a [cutting board](https://sketchfab.com/3d-models/cutting-board-06c94ce2e7b84a29ac3bc848b4f862bf).
+* The [Pexels](https://www.pexels.com/) platform for free images used as textures.
 <p align="right">(<a href="#top">back to top</a>)</p>
