@@ -1,12 +1,9 @@
 <div id="top">
   
   <div align="center">
-    <a href="https://wfxr.mit-license.org/2017">
-        <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"/>
-    </a>
-    <a href="https://gcc.gnu.org/">
-        <img src="https://img.shields.io/badge/C++-11-blue.svg?style=flat&logo=c%2B%2B"/>
-  </div>
+    <a href="https://wfxr.mit-license.org/2017"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"/></a>
+    <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/C++-11-blue.svg?style=flat&logo=c%2B%2B"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-v2022-0066b8?style=flat&logo=visual-studio-code&logoColor=23a9f2"/></a></div>
 </div>
 
 <!-- PROJECT LOGO -->
