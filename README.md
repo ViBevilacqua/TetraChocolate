@@ -1,4 +1,14 @@
 <div id="top">
+  
+  <div align="center">
+    <a href="https://wfxr.mit-license.org/2017">
+        <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"/>
+    </a>
+    <a href="https://gcc.gnu.org/">
+        <img src="https://img.shields.io/badge/C++-11-blue.svg?style=flat&logo=c%2B%2B"/>
+  </div>
+</div>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -32,6 +42,7 @@
       </ul>
     </li>
     <li><a href="#built-with">Built with</a></li>
+    <li><a href="#installation-and-usage">Installation and usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contacts">Contacts</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -60,7 +71,7 @@ An example of the game window with automatic resizing and repositioning to allow
     <img src="multimedia/demo_autoResizePos.gif">
 </div>
 
-### Built with
+## Built with
 
 * [C++ 11](https://en.cppreference.com/w/cpp/11)
 * [OpenGL/glew 1.12.0](https://glew.sourceforge.net/)
@@ -69,21 +80,15 @@ An example of the game window with automatic resizing and repositioning to allow
 * [SOIL 1.16.0](https://www.nuget.org/packages/soil/1.16.0)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
- ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+## Installation and usage
+The project was developed using the Visual Studio Code 2022 IDE, the VSC project configuration files were not uploaded in this repository. Therefore, to improve or run this project, it is recommended to:
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Install Visual Studio Code.
+2. Install the libraries required [here](https://github.com/ViBevilacqua/TetraChocolate/blob/main/README.md#built-with).
+3. Import the files and folders contained in the [src](https://github.com/ViBevilacqua/TetraChocolate/tree/main/src) directory of this repository into your workspace.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 ## License
